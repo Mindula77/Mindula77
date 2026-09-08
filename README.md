@@ -10,14 +10,14 @@
 
 * **[The Toilet](https://discord.gg/VNEPz8Mfn9)** — A multi-purpose Discord community built for gaming, chatting, custom ranks, and hanging out.
 
-* **Serpent** — An upgraded arcade take on classic Snake featuring neon visuals, portals, and strategy mechanics.
+* **[Serpent](https://serpent.primelandmc.net)** — An upgraded arcade take on classic Snake featuring neon visuals, portals, and strategy mechanics.
 
 ---
 
 ## 🌐 Quick Links
 
 * 💻 **Portfolio:** [mindula7.primelandmc.net](https://mindula7.primelandmc.net)
-* 🎮 **Minecraft Server:** `primelandmc.net`
+* 🎮 **Minecraft Server:** `play.primelandmc.net`
 * 💬 **PrimeLand Discord:** [discord.gg/94fUgc43FB](https://discord.gg/94fUgc43FB)
 * 🚽 **Community Discord:** [discord.gg/VNEPz8Mfn9](https://discord.gg/VNEPz8Mfn9)
 
