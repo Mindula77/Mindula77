@@ -96,6 +96,7 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
 ![BungeeCord](https://img.shields.io/badge/BungeeCord-F39C12?style=for-the-badge&logo=server&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-DBD0C0?style=for-the-badge&logo=fabric&logoColor=black)
 ![Forge](https://img.shields.io/badge/Forge-333333?style=for-the-badge&logo=curseforge&logoColor=white)
+![Arclight](https://img.shields.io/badge/Arclight-2189CC?style=for-the-badge&logo=curseforge&logoColor=white)
 
 ### ⚙️ DevOps & Systems Infrastructure
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
