@@ -89,8 +89,8 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
 ![Android XML](https://img.shields.io/badge/Android_XML-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🎮 Minecraft Server Architecture & Engines
-![PaperMC](https://img.shields.io/badge/PaperMC-E05D44?style=for-the-badge&logo=paper&logoColor=white)
-![Purpur](https://img.shields.io/badge/PurpurMC-843B87?style=for-the-badge&logo=minecraft&logoColor=white)
+![PaperMC](https://img.shields.io/badge/Paper-E05D44?style=for-the-badge&logo=paper&logoColor=white)
+![Purpur](https://img.shields.io/badge/Purpur-843B87?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-0099FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![BungeeCord](https://img.shields.io/badge/BungeeCord-F39C12?style=for-the-badge&logo=server&logoColor=white)
