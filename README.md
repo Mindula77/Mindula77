@@ -42,7 +42,7 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
   <tr>
     <td width="50%" valign="top">
       <h3>🖥️ Minecraft Server Architecture</h3>
-      <p>Specialized in modern high-concurrency multiplayer engines (Folia, Paper, Purpur) and ultra-low-latency Velocity proxy networks with cross-server sync, anti-cheat tuning, and custom game loops.</p>
+      <p>Specialized in modern high-concurrency multiplayer engines (Paper, Purpur) and ultra-low-latency Velocity proxy networks with cross-server sync, anti-cheat tuning, and custom game loops.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Full-Stack Web Development</h3>
