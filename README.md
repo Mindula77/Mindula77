@@ -141,9 +141,6 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 - **Communication Terminal (`/contact`)**:
   - Real-time contact form dispatching formatted packet payloads
   - Direct mail integration with one-click copy to clipboard
-- **Comprehensive SEO & Schema.org**:
-  - Dynamic `sitemap.ts` and `robots.ts`
-  - Deep JSON-LD microdata (`ProfilePage`, `AboutPage`, `CollectionPage`, `Person`, `Organization`) for rich search engine indexing
 
 ---
 
