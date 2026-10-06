@@ -169,7 +169,7 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 | 📅 **Ecosystem Active Since** | 2023+ |
 
 ---
-
+<--
 ## 📈 GitHub Activity & Stats
 
 <div align="center">
@@ -186,4 +186,4 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 
 <div align="center">
   <sub>Designed &amp; Engineered by <strong>Mindula7</strong> • Founder &amp; Creator of PrimeLandMC</sub>
-</div>
+</div> -->
