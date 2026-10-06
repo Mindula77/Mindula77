@@ -134,7 +134,7 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
 The official personal portfolio website ([mindula7.primelandmc.net](https://mindula7.primelandmc.net)) is built from the ground up as a showcase of modern web engineering:
 
 - **Framework**: [Next.js 16](https://nextjs.org/) (App Router, Server & Client Components) with [React 19](https://react.dev/)
-- **Language**: TypeScript (`TSX` / `TS`) with strict typing
+- **Language**: TypeScript (`TSX` / `TS`)
 - **Styling & Theme**: Vanilla CSS + Tailwind CSS with a custom Cyberpunk / Crimson gamer theme
 - **Dynamic Theme Engine**: Live color variables (`--color-bg`, `--color-primary`, `--color-secondary`, `--color-card`, `--color-text`) loaded in real-time from the database and updated across all visitors without re-deploying
 - **Database & Data Layer**: Prisma ORM with SQLite / PostgreSQL models for Projects, Categories, Analytics, and Themes
