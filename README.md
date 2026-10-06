@@ -120,7 +120,7 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
 
 ---
 
-### ⚡ [The Toilet](https://discord.gg/VNEPz8Mfn9) — *Community Founder & Host*
+### ⚡ [The Toilet](https://discord.gg/VNEPz8Mfn9) — *Community Founder*
 > **Personal Community Discord Server**
 - **Description**: My personal community Discord hub — a chill and active hangout space where friends, gamers, creators, and the wildly curious come together for conversations, gaming nights, and memes.
 - **Coordinates**:
@@ -160,7 +160,7 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 | 🏷️ **Alias / Handles** | `Mindula7` • `Mindula` • `Mindula77` |
 | 📍 **Primary Venture** | Founder & Creator of [PrimeLandMC](https://primelandmc.net) |
 | 🎮 **Primary Gaming Discord** | [discord.gg/94fUgc43FB](https://discord.gg/94fUgc43FB) |
-| 💬 **Personal Social Discord** | [discord.gg/VNEPz8Mfn9](https://discord.gg/VNEPz8Mfn9) |
+| 💬 **The Toilet Discord** | [discord.gg/VNEPz8Mfn9](https://discord.gg/VNEPz8Mfn9) |
 | ✉️ **Direct Email** | [mindula7@primelandmc.net](mailto:mindula7@primelandmc.net) |
 | 🔴 **YouTube Channel** | [@Mindula7](https://www.youtube.com/@Mindula7) |
 | 📸 **Instagram** | [@mindula77](https://www.instagram.com/mindula77) |
