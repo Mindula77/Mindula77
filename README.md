@@ -139,7 +139,7 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 - **Dynamic Theme Engine**: Live color variables (`--color-bg`, `--color-primary`, `--color-secondary`, `--color-card`, `--color-text`) loaded in real-time from the database and updated across all visitors without re-deploying
 - **Database & Data Layer**: Prisma ORM with SQLite / PostgreSQL models for Projects, Categories, Analytics, and Themes
 - **Communication Terminal (`/contact`)**:
-  - Real-time contact form dispatching formatted packet payloads directly to a secured Discord Webhook
+  - Real-time contact form dispatching formatted packet payloads
   - Direct mail integration with one-click copy to clipboard
 - **Comprehensive SEO & Schema.org**:
   - Dynamic `sitemap.ts` and `robots.ts`
