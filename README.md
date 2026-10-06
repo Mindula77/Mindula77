@@ -167,23 +167,3 @@ The official personal portfolio website ([mindula7.primelandmc.net](https://mind
 | 🐦 **X (Twitter)** | [@Mindula77](https://x.com/Mindula77) |
 | 👥 **Facebook** | [Mindula77](https://www.facebook.com/Mindula77) |
 | 📅 **Ecosystem Active Since** | 2023+ |
-
----
-<--
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mindula77&show_icons=true&theme=radical&title_color=f97316&icon_color=8b0000&text_color=ffffff&bg_color=0a0a0a&border_color=8b0000" alt="Mindula77 GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula77&layout=compact&theme=radical&title_color=f97316&text_color=ffffff&bg_color=0a0a0a&border_color=8b0000" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mindula77&theme=radical&background=0a0a0a&ring=8b0000&fire=f97316&currStreakLabel=f97316&border=8b0000" alt="Mindula77 Streak Stats" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed &amp; Engineered by <strong>Mindula7</strong> • Founder &amp; Creator of PrimeLandMC</sub>
-</div> -->
