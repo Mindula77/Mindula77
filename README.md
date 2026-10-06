@@ -120,7 +120,7 @@ Whether orchestrating high-concurrency Minecraft server nodes connected via Velo
 
 ---
 
-### ⚡ [The Toilet](https://discord.gg/VNEPz8Mfn9) — *Community Founder*
+### ⚡ [The Toilet](https://discord.gg/VNEPz8Mfn9) — *Community Founder & Manager*
 > **Personal Community Discord Server**
 - **Description**: My personal community Discord hub — a chill and active hangout space where friends, gamers, creators, and the wildly curious come together for conversations, gaming nights, and memes.
 - **Coordinates**:
